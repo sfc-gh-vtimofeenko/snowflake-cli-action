@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+set -x
 
 set -euo pipefail
 PIPX_PATH="snow_pipx_path/"
