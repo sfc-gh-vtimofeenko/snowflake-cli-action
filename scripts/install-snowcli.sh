@@ -19,3 +19,5 @@ fi
 
 
 echo "$PIPX_BIN_DIR" >> "$GITHUB_PATH"
+ls "$PIPX_BIN_DIR"
+cd "$PIPX_BIN_DIR" && pwd
